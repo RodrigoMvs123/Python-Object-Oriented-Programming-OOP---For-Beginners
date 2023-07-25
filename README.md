@@ -4,7 +4,7 @@ https://youtu.be/JeznW_7DlB0
 
 https://raw.githubusercontent.com/RodrigoMvs123/Python-Object-Oriented-Programming-OOP---For-Beginners/main/README.md
 
-
+https://github.com/RodrigoMvs123/Python-Object-Oriented-Programming-OOP---For-Beginners/blame/main/README.md
 
 Visual Studio Code
 Explorer 
